@@ -1,82 +1,61 @@
-<h1 align="center">Hi 👋, I'm Sumit Suresh Parit</h1>
-<h3 align="center">Data Analyst | BI Developer | Python & SQL Enthusiast</h3>
-
----
-
-## 🚀 About Me  
-I am a passionate **Data Analyst** with hands-on experience in **Python, SQL, Power BI, Excel, and Machine Learning**.  
-I enjoy building dashboards, analyzing data, automating workflows, and turning raw data into business insights.  
-Dedicated to continuous learning and improving analytical & technical skills.
-
----
-
-## 🔧 Tech Stack
-
-### 🧠 Languages  
-- Python | SQL | Java | C | C++
-
-### 📊 Data Analytics  
-- Power BI | Excel | Power Query | DAX | ETL | KPIs | Data Modeling
-
-### 🗄️ Databases  
-- MySQL
-
-### 🧰 Tools & Cloud  
-- Git | GitHub | Streamlit | Figma | WordPress | n8n  
-- AWS (EC2, S3, EBS, EFS, SNS)
-
-### 📚 Libraries  
-- Pandas | NumPy | Matplotlib | Scikit-learn
-
-### 🌐 Web Development  
-- HTML | CSS | JavaScript | REST APIs
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Customer Shopping Behavior Analysis  
-**Python | SQL | Power BI**  
-- Analyzed **10,000+ records**, created dashboards showing sales trends & customer segments.  
-- Identified revenue drivers using data modeling & EDA.
-
-### 🔹 Movie Recommendation System  
-**Machine Learning | Streamlit**  
-- Built content-based recommendation engine using **Scikit-learn**.  
-- Performed vectorization, EDA, evaluation & deployed via Streamlit UI.
-
-### 🔹 HR Analytics Dashboard  
-**Power BI**  
-- Created interactive dashboard tracking Attrition, Hiring, Gender ratio & performance metrics.
-
-### 🔹 Scholarship Registration System  
-**HTML | CSS | JS | MySQL**  
-- Full-stack application for managing scholarship registrations, approvals & verifications.
-
----
-
-## 📈 GitHub Stats
+<h2 align="center">Hi 👋, I'm <b>Sumit Parit</b></h2>
+<p align="center">I am a passionate Data Analyst with hands-on experience in Python, SQL, Power BI, Excel, and Machine Learning. I enjoy building dashboards, analyzing data, automating workflows, and turning raw data into business insights. Dedicated to continuous learning and improving analytical & technical skills.</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitCraftCodes&show_icons=true&theme=tokyonight" alt="sumit stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumitCraftCodes&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitCraftCodes&layout=compact&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Data%20Analyst-Professional-blue" />
+  <img src="https://img.shields.io/badge/Power%20BI-DAX%20%7C%20KPIs-yellow" />
+  <img src="https://img.shields.io/badge/SQL-Expert-success" />
 </p>
 
 ---
 
-## 📬 Connect With Me  
-<p align="left">
-<a href="https://linkedin.com/in/sumit-parit-258452269" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sumitkore9970@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+### 🚀 About Me
+Turning **data into insights** through dashboards, automation, and visualization.  
+Skilled in **SQL, Python, Power BI & Machine Learning**.
+
+---
+
+### 🛠️ Tech & Tools
+
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 </p>
 
 ---
 
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**  
+### 📌 Projects
+✅ Customer Shopping Analysis – SQL + Python + Power BI  
+✅ Movie Recommendation System – ML + Streamlit  
+✅ HR Analytics Dashboard – Power BI KPIs  
+✅ Scholarship System – HTML/CSS/JS + MySQL
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="140" src="https://github-readme-stats.vercel.app/api?username=SumitCraftCodes&show_icons=true&theme=transparent" />
+<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitCraftCodes&layout=compact&theme=transparent" />
+</p>
+
+---
+
+### 🌐 Connect
+<p align="center">
+<a href="https://linkedin.com/in/sumit-parit-258452269"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
+<a href="mailto:sumitkore9970@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="40"/></a>
+</p>
+
+---
+
+⭐ <b>Thanks for visiting!</b>
